@@ -1,0 +1,11 @@
+[{"beishu":1,"FD":16,"menkan":100,"minGold":200},
+            {"beishu":2,"FD":16,"menkan":200,"minGold":400},
+            {"beishu":3,"FD":16,"menkan":300,"minGold":600},
+            {"beishu":4,"FD":16,"menkan":400,"minGold":800},
+            {"beishu":5,"FD":16,"menkan":500,"minGold":1000},
+            {"beishu":8,"FD":16,"menkan":800,"minGold":1600},
+            {"beishu":10,"FD":32,"menkan":2000,"minGold":4000},
+            {"beishu":15,"FD":32,"menkan":3000,"minGold":6000},
+            {"beishu":25,"FD":32,"menkan":5000,"minGold":10000},
+            {"beishu":50,"FD":32,"menkan":10000,"minGold":20000},
+            {"beishu":125,"FD":32,"menkan":25000,"minGold":50000}]

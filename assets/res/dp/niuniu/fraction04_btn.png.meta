@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d0410f21-da9f-4b45-a5cd-90bc014f50cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fraction04_btn": {
+      "ver": "1.0.3",
+      "uuid": "f9ab42d0-cdf6-4e0d-ba60-7c1ee6a63e2a",
+      "rawTextureUuid": "d0410f21-da9f-4b45-a5cd-90bc014f50cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 108,
+      "height": 68,
+      "rawWidth": 108,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

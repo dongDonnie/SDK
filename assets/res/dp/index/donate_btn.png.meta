@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "02e28816-d672-42bf-8fbf-5ecc969412da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "donate_btn": {
+      "ver": "1.0.3",
+      "uuid": "cc387880-9b1c-413a-8aa8-0ebbed4c2f57",
+      "rawTextureUuid": "02e28816-d672-42bf-8fbf-5ecc969412da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 389,
+      "height": 108,
+      "rawWidth": 389,
+      "rawHeight": 108,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

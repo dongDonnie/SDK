@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5d718111-e8cc-4b37-918c-2e6c05eb216d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "niuseven": {
+      "ver": "1.0.3",
+      "uuid": "2acf5e8f-ca78-43e6-a2e3-b7a0431995d0",
+      "rawTextureUuid": "5d718111-e8cc-4b37-918c-2e6c05eb216d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 44,
+      "rawWidth": 84,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

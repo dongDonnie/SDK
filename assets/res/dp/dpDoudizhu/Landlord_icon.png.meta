@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "93b27f93-8b2f-4bbe-b6c7-a68c7e4b5800",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Landlord_icon": {
+      "ver": "1.0.3",
+      "uuid": "ec0dd242-3fb0-46dd-9ed7-fecc572c20fc",
+      "rawTextureUuid": "93b27f93-8b2f-4bbe-b6c7-a68c7e4b5800",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 38,
+      "rawWidth": 68,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
